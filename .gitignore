@@ -1,0 +1,5 @@
+.venv/
+notes/
+data/in/
+data/out/
+*.pyc

@@ -1,0 +1,102 @@
+{
+    "Ambor": {
+        "Wic": {
+            "id": "???",
+            "name": "100% Outrider"
+        }
+    },
+    "Barbara": {
+        "Summertime": {
+            "id": "???",
+            "name": "Summertime Sparkle"
+        }
+    },
+    "Diluc": {
+        "Flamme": {
+            "id": "???",
+            "name": "Red Dead of Night"
+        }
+    },
+    "Fischl": {
+        "Highness": {
+            "id": "???",
+            "name": "Ein Immernachtstraum"
+        }
+    },
+    "Ganyu": {
+        "Yu": {
+            "id": "???",
+            "name": "Twilight Blossom"
+        }
+    },
+    "Qin": {
+        "Wic": {
+            "id": "???",
+            "name": "Gunnhildr's Legacy"
+        },
+        "Sea": {
+            "id": "???",
+            "name": "Sea Breeze Dandelion"
+        }
+    },
+    "Kaeya": {
+        "Dancer": {
+            "id": "???",
+            "name": "Sailwind Shadow"
+        }
+    },
+    "Ayaka": {
+        "Fruhling": {
+            "id": "???",
+            "name": "Springbloom Missive"
+        }
+    },
+    "Keqing": {
+        "Feather": {
+            "id": "???",
+            "name": "Opulent Splendor"
+        }
+    },
+    "Klee": {
+        "Witch": {
+            "id": "???",
+            "name": "Blossoming Starlight"
+        }
+    },
+    "Lisa": {
+        "Studentin": {
+            "id": "???",
+            "name": "A Sobriquet Under Shade"
+        }
+    },
+    "Mona": {
+        "Wic": {
+            "id": "???",
+            "name": "Pact of Stars and Moon"
+        }
+    },
+    "Ningguang": {
+        "Floral": {
+            "id": "???",
+            "name": "Orchid's Evening Gown"
+        }
+    },
+    "Rosaria": {
+        "Wic": {
+            "id": "???",
+            "name": "To the Church's Free Spirit"
+        }
+    },
+    "Shenhe": {
+        "Dai": {
+            "id": "???",
+            "name": "Frostflower Dew"
+        }
+    },
+    "Xingqiu": {
+        "Bamboo": {
+            "id": "???",
+            "name": "Bamboo Rain"
+        }
+    }
+}
